@@ -1,0 +1,32 @@
+/* 
+
+Custom Construction
+
+*/
+body {
+	padding: 0 !important;
+}
+
+a.active {
+	color: #1abc9c!important;
+}
+.price-menu-list {
+	padding: 0;
+}
+
+.input-group-text {
+	height: 40px;
+}
+
+.price-menu-list li {
+	margin-bottom: 30px;
+}
+
+.price-menu-list li > h2 {
+  margin-bottom: 0;
+}
+
+.price-menu-list li > p {
+	  margin-bottom: 8px;
+	opacity: 0.6;
+}
